@@ -9,8 +9,8 @@
 2. Configure the environment variables (no "/" at the end of the path)
    - Copy the java home path (in general, this can be found in "C:/Program files/Java/jdk-XX"). Create JAVA_HOME in "system variables" and paste the Java path.
    - Copy the java bin directory path (in general, this can be found in "C:/Program files/Java/jdk-XX/bin"). Add it to "path" in "system variable".
-   - Verify that Java is installed by openening the console and typing "java -version".
-3.Download and install Eclipse (or any other IDE).
+   - Verify that Java is installed by openening the console and typing "java -version". 
+3. Download and install Eclipse (or any other IDE).
     - Go to https://www.eclipse.org/downloads/ for download Eclipse.
     - For Windows, there is no installation: just download the files and open "eclipse. exe". 
       
